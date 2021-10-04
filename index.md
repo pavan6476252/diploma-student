@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Diploma Students page
 
 You can use the [editor on GitHub](https://github.com/pavan6476252/diploma-student/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
